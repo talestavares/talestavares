@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/talestavares/talestavares/blob/main/TALES-TAVARES.png?raw=true" alt="Banner - Tales" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
